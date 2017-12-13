@@ -1,0 +1,28 @@
+ul, ol {
+	list-style: none;
+	padding-left: 0;
+}
+ol {
+	display: inline;
+}
+.pagination li span {
+	border: none;
+}
+.sliderShow {
+  width: 100%;
+  position: relative;
+}
+.slider li img {
+  width: 100%;
+}
+.left, .right {
+	font-size: 30px;
+	padding: 0;
+	color: #337ab7;
+	display: inline;
+	cursor: pointer;
+} 
+.pagination {
+	margin: 0;
+	cursor: pointer;
+} 
